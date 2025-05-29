@@ -2,7 +2,8 @@
 
 ESP8266 + RS485 + MQTT + Home Assistant — **zero cloud, all sunshine.**
 
-![EPEVER Tracer 4215BN MPPT](https://m.media-amazon.com/images/I/71k1-M5mZ9L._AC_SL1500_.jpg)
+![epever](https://github.com/user-attachments/assets/0e2b6f27-1e5c-4ac0-b01e-3f665fb244af)
+
 
 > 🔗 [Buy the Charge Controller](https://amzn.eu/d/51auldm)
 
