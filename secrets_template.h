@@ -9,4 +9,5 @@ const char* wifi_ssid    = "wifi_network";
 const char* wifi_pass    = "wifi_passsword";
 const char* mqtt_topic = "epever/state";
 const char* ota_pass     = "guessme";
+const char* mqtt_deepsleep = "epever/deepsleep";
 const char* mqtt_debug_topic = "epever/debug";
