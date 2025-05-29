@@ -37,7 +37,7 @@ No YAML, no cables, no vendor cloud.
 
 Use an RJ45/Ethernet cable to neatly bridge the EPEVER RS485 port, MAX485 breakout board, and your NodeMCU ESP8266.
 
-### Ethernet Cable Mapping
+### Ethernet Cable Mapping (T568B standard)
 
 ```
 Green/White  → RS485MAX B
