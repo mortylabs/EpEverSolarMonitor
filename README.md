@@ -2,7 +2,9 @@
 
 ESP8266 + RS485 + MQTT + Home Assistant — **zero cloud, all sunshine.**
 
-![epever](https://github.com/user-attachments/assets/0e2b6f27-1e5c-4ac0-b01e-3f665fb244af)
+
+![image](https://github.com/user-attachments/assets/46730940-ab0f-4151-a995-00839f5f0ad3)
+
 
 
 > 🔗 [Buy the Charge Controller](https://amzn.eu/d/51auldm)
