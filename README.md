@@ -1,6 +1,7 @@
 # EpEver Solar Monitor (ESP8266 + RS485 + MQTT + Home Assistant)
 
-![EPEVER Tracer 4215BN MPPT](https://m.media-amazon.com/images/I/71k1-M5mZ9L._AC_SL1500_.jpg)
+![epever](https://github.com/user-attachments/assets/d0dee93c-e957-4f7c-88fe-963b25c3f5ef)
+
 
 > 🔗 [Buy it on Amazon](https://amzn.eu/d/51auldm)
 
