@@ -14,9 +14,13 @@ Monitor your off-grid solar system in real-time with a WiFi-enabled, Arduino-pow
 ## ⚡️ Highlights
 
 ✅ Polls Modbus registers from EPEVER MPPT via RS485 (MAX485)
+
 ✅ Sends clean JSON over MQTT
+
 ✅ Works out-of-the-box with Home Assistant MQTT Discovery
+
 ✅ OTA firmware updates
+
 ✅ Optional Deep Sleep for ultra-low power
 
 ---
@@ -82,6 +86,7 @@ const char* mqtt_user   = "your_user";
 const char* mqtt_pass   = "your_pass";
 const char* mqtt_server = "192.168.1.x";
 const int   mqtt_port   = 1883;
+etc
 ```
 3. Upload the sketch via USB
 4. Device connects to WiFi, starts publishing via MQTT, and auto-registers in Home Assistant
